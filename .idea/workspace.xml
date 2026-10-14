@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7c288ef-db64-436b-9fca-106fe2f597f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/web_services_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database1/project.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database1/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="075e7007-e514-4b02-a6a6-f507cd667117" value="" />
+      <entry key="73d15e9e-5821-4c87-b1f8-041708904f87" value="" />
+    </colors>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000004405425" />
+      <entry key="MS500" value="1.0138595547510252" />
+      <entry key="S2" value="1.5587361589882827" />
+      <entry key="S5" value="2.8901593928557183" />
+      <entry key="S10" value="4.610079354578282" />
+      <entry key="S30" value="9.031913551105793" />
+      <entry key="S60" value="12.236790835746561" />
+      <entry key="M2" value="14.844206067267091" />
+      <entry key="M5" value="17.19503156659937" />
+      <entry key="M10" value="21.701528453526876" />
+      <entry key="M15" value="30.596459830912856" />
+      <entry key="M30" value="62.17551456369829" />
+      <entry key="H1" value="105.19328443855393" />
+      <entry key="H2" value="143.53542792072975" />
+      <entry key="H4" value="169.89178790695917" />
+      <entry key="D1" value="196.93039083676481" />
+      <entry key="W1" value="202.1181504383236" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="5.198272861242344E-301" />
+      <entry key="S5" value="1.3787666641890976E-120" />
+      <entry key="S10" value="2.2109986803274667E-60" />
+      <entry key="S30" value="3.544133909698183E-20" />
+      <entry key="S60" value="4.1575901586628695E-10" />
+      <entry key="M2" value="4.5445938811307566E-5" />
+      <entry key="M5" value="0.04904482345468007" />
+      <entry key="M10" value="0.5843916821814595" />
+      <entry key="M15" value="1.7024509683790685" />
+      <entry key="M30" value="8.135776020199925" />
+      <entry key="H1" value="23.13059380903544" />
+      <entry key="H2" value="41.46877656804867" />
+      <entry key="H4" value="56.27664655990554" />
+      <entry key="D1" value="73.03996650072982" />
+      <entry key="W1" value="76.42040454346869" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9075191557169616" />
+      <entry key="MS500" value="0.9943721553842297" />
+      <entry key="S2" value="1.551011538676443" />
+      <entry key="S5" value="2.8838797617374983" />
+      <entry key="S10" value="4.604909434258325" />
+      <entry key="S30" value="9.028571244044" />
+      <entry key="S60" value="12.234171137321336" />
+      <entry key="M2" value="14.84193441177482" />
+      <entry key="M5" value="17.242228484872673" />
+      <entry key="M10" value="22.283248845924412" />
+      <entry key="M15" value="32.29436951140724" />
+      <entry key="M30" value="70.29956291315624" />
+      <entry key="H1" value="128.30608393941844" />
+      <entry key="H2" value="184.98778917619077" />
+      <entry key="H4" value="226.15715122163365" />
+      <entry key="D1" value="269.96789206343254" />
+      <entry key="W1" value="278.5381858914227" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KfG70f8MGljrd2gk3fOQKq1O0O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Database Script.schema.sql.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "database.query.execution",
+    "to.speed.mode.migration.done": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ],
+    "RunConfigurationTargetLRU": [
+      "075e7007-e514-4b02-a6a6-f507cd667117"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jenni\PycharmProjects\web_services_project\Database1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="schema.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/Database1/schema.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="075e7007-e514-4b02-a6a6-f507cd667117" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-eff1e8def5f5-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10315.174" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7c288ef-db64-436b-9fca-106fe2f597f2" name="Changes" comment="" />
+      <created>1791941038061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791941038061</updated>
+      <workItem from="1791941040770" duration="4316000" />
+      <workItem from="1791977290379" duration="7846000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
